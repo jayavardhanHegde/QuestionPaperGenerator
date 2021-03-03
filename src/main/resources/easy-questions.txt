@@ -1,0 +1,10 @@
+what is the speed of light,speed of light,waves,EASY,5
+What is the capital of India,Geography,General Knowledge,EASY,5
+How computer works,Computer,Electronics,EASY,5
+what is the speed of sound,speed of sound,waves,EASY,5
+Explain Abstraction in OOPS,Java,Programming,EASY,5
+Explain Polymorphism in OOPS,Java,Programming,EASY,5
+Explain Inheritance in OOPS,Java,Programming,EASY,5
+Explain Encapsulation in OOPS,Java,Programming,EASY,5
+Difference between Array & ArrayList,Java,Programming,EASY,5
+Difference between HashMap & ArrayList,Java,Programming,EASY,5

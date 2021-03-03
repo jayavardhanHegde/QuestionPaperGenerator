@@ -1,0 +1,10 @@
+Explain OOPS concepts,OOPS,Programming,MEDIUM,5
+What is threading in java,threads,Programming,MEDIUM,5
+Explain about ABS System in Vehicle,Vehicle,Automobile,MEDIUM,5
+Explain about internal working of hashmap,java,Programming,MEDIUM,5
+Explain Spring IOC,Spring,Programming,MEDIUM,5
+Explain Spring Bean Loading,Spring,Programming,MEDIUM,5
+Explain Webservices with SOAP,Webservices,SOAP,MEDIUM,5
+Explain Webservices with REST,Webservices,REST,MEDIUM,5
+Explain Load Balancing,Load Balancing,Scalable System,MEDIUM,5
+Explain Caching,Caching,Scalable System,MEDIUM,5

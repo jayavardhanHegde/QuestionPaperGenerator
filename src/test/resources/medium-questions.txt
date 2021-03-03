@@ -1,0 +1,4 @@
+Explain OOPS concepts,OOPS,Programming,MEDIUM,5
+What is threading in java,threads,Programming,MEDIUM,5
+Explain about ABS System in Vehicle,Vehicle,Automobile,MEDIUM,5
+Explain about internal working of hashmap,java,Programming,MEDIUM,5

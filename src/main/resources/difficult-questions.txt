@@ -1,0 +1,10 @@
+How multi threading works in Java,JAVA,Programming,DIFFICULT,10
+How spring container internally works,SPRING,Programming,DIFFICULT,10
+What is Rate Limitting,Limiting,Rate Limit,DIFFICULT,10
+What is CDN,CDN,Caching,DIFFICULT,10
+What is spring Batch,Batch,Spring Batch,DIFFICULT,10
+Explain Transcation Management,Transcations,Transcation Management,DIFFICULT,10
+Explain Horizontal Scaling,Horizontal Scaling,Scaled System,DIFFICULT,10
+Explain Kubernetes,Kubernetes,Containerised Deployment,DIFFICULT,10
+Explain Docker,Docker,Docker,DIFFICULT,10
+Explain Spring cloud Config,Spring Cloud,Spring Cloud Config,DIFFICULT,10
