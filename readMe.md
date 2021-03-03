@@ -41,9 +41,9 @@ UI Clients (Web/Android/IOS APP/Mobile Browser)
 
 ### API's To Run
 
-- To Load Questions
+- To Load Questions **[POST]**
   <http://localhost:8080/api/v1/questionpaper/store/load/ALL>
-- To Generate Question Paper
+- To Generate Question Paper **[GET]**
   <http://localhost:8080/api/v1/questionpaper/generate?distributions=30,20,50&stratergy=difficulty&totalMarks=100>
 ### API Documentation
 Documented with Swagger.
